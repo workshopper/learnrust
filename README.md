@@ -1,0 +1,2 @@
+# learnrust
+Intro to rust
